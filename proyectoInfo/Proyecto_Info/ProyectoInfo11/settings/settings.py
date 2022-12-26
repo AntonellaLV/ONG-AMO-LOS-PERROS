@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-p=$0#_5*#3iv+dr(8y8kp-+8e1zp6hewj@v%t&qqo3bhmgs$r%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [antonella24.pythonanywhere.com]
+ALLOWED_HOSTS = ['antonella24.pythonanywhere.com']
 
 # LOGIN LOGOUT CONFIG
 
